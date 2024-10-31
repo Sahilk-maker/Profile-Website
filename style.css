@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header nav{
+    background-color: rgb(101, 100, 100);
+    color: #cdcbcb;
+    height: 80px;
+}
+
+header h1{
+    position: absolute;
+    top: 19px;
+    left: 23px;
+    font-size: 34px;
+}
+
+header ul{
+    position: absolute;
+    left: 80%;
+    top: 23px;
+}
+header li{
+    display: inline;
+}
+header a{
+    text-decoration: none;
+    color: #cdcbcb;
+    font-size: 23px;
+    padding-right: 18px;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    background-color: #e7e4e4;
+    padding: 12px 19px;
+}
+center img{
+    height: 250px;
+    margin: 13px;
+}
+#about p{
+    font-size: 20px;
+}
+
+
+.skills li{
+    height: 43px;
+    background-color: #837f7f;
+    list-style: none;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-left: 12px;
+    margin: 6px;
+    font-size: 21px;
+}
+
+#map iframe{
+    width: 100%;
+}
+
+#social img{
+    height: 45px;
+}
+
+footer p{
+    background-color: #575555;
+    color: #e7e4e4;
+    height: 53px;
+    text-align: center;
+    font-size: 25px;
+}
